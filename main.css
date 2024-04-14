@@ -1,0 +1,20 @@
+form {
+    border: 1px solid #000;
+    width: 16em;
+    margin: 10em auto;
+    padding: 0.6em;
+    text-align: center;
+    font-family: Montserrat;
+    border-radius: 0.4em;
+}
+form h2 {
+    margin: 0.6em 0 1em 0;
+}
+form div {
+    margin: 0.5em 0 0 0;
+}
+input[type=submit] {
+    color:#000;
+    margin: 2em 0 1.75em 0;
+    width: 100%;
+}
